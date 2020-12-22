@@ -1,0 +1,17 @@
+46cfcfe HEAD@{0}: merge develop: Fast-forward
+ab6ee58 HEAD@{1}: checkout: moving from develop to main
+46cfcfe HEAD@{2}: commit (merge): develop commit 2 after merge images and styles and resolve conflict
+0ab3e1b HEAD@{3}: merge images: Fast-forward
+0149fce HEAD@{4}: checkout: moving from styles to develop
+1c5c23b HEAD@{5}: commit: styles commit 2
+d55efdb HEAD@{6}: commit: styles commit 1
+0149fce HEAD@{7}: checkout: moving from images to styles
+0ab3e1b HEAD@{8}: checkout: moving from styles to images
+0149fce HEAD@{9}: checkout: moving from develop to styles
+0149fce HEAD@{10}: checkout: moving from images to develop
+0ab3e1b HEAD@{11}: commit: images commit 1
+0149fce HEAD@{12}: checkout: moving from develop to images
+0149fce HEAD@{13}: commit: develop commit 1
+ab6ee58 HEAD@{14}: checkout: moving from main to develop
+ab6ee58 HEAD@{15}: commit: main commit 1
+6371306 HEAD@{16}: clone: from https://github.com/vldmr-git/DevOps_online_Vinnytsia_2020Q42021Q1.git
