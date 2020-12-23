@@ -161,9 +161,9 @@
 	>  * [new branch]      styles -> styles  
 
 24. Executed command `git reflog` and saved it content to */home/vldmr/task1.1_GIT.txt*
-25. Added my trainers to repository as collaborators
+25. Added my trainers to repository as collaborators  
 
-		![collaborators](/readme_md/collaborators.png)
+![collaborators](/m1/task1.1/readme_md/collaborators.png)
 
 26. Added *task1.1_GIT.txt* to my local repo and pushed it in GitHub repo.
 27. Made file *readme.md* in folder *task1.1* and described results of my work with Git  
