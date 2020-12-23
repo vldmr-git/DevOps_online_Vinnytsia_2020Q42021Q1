@@ -4,8 +4,8 @@
 1. Installed GIT to Ubuntu 20.04.1
 2. Changed global configs:  
 
-	$ git config --global user.name "vldmr"
-	$ git config --global user.email vmstangrit@gmail.com
+		$ git config --global user.name "vldmr"
+		$ git config --global user.email vmstangrit@gmail.com
 
 3. Created account [**vldmr-git**](https://github.com/vldmr-git) on [GitHub](https://github.com)
 4. Created repo [**DevOps_online_Vinnytsia_2020Q42021Q1**](https://github.com/vldmr-git/DevOps_online_Vinnytsia_2020Q42021Q1)
@@ -179,7 +179,7 @@
 24. Executed command `git reflog` and saved it content to */home/vldmr/task1.1_GIT.txt*
 25. Added my trainers to repository as collaborators
 
-		![collaborators](readme_md/collaborators.png)
+		![collaborators](/readme_md/collaborators.png)
 
 26. Added *task1.1_GIT.txt* to my local repo and pushed it in GitHub repo.
 27. Made file *readme.md* in folder *task1.1* and described results of my work with Git  
