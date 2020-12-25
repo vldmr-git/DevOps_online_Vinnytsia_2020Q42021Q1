@@ -1,7 +1,7 @@
 # readme.md  
-## Task2.1  
+## Task 2.1  
 
-### PART1. HYPERVISORS  
+### PART 1. HYPERVISORS  
 1. The most popular hypervisors for infrustructure virtualization are:  
 - VMware vSphere Hypervisor  
 - Microsoft Hyper-V  
@@ -25,7 +25,7 @@
 	> - Parallels Desktop  
 	> - QEMU  
 
-### PART2. WORK WITH VIRTUALBOX  
+### PART 2. WORK WITH VIRTUALBOX  
 #### 1. First run VirtualBox and Virtual Machine (VM).  
 1. Acquainted with the [VirtualBox user manual](https://www.virtualbox.org/manual/UserManual.html)  
 2. Downloaded and installed the [VirtualBox-6.1.16-140961-Win.exe](https://download.virtualbox.org/virtualbox/6.1.16/VirtualBox-6.1.16-140961-Win.exe)  
@@ -94,4 +94,5 @@ And checked the path to Vagrant:
 ![Date](/m2/task2.1/img/Screenshot3.6.png)  
 7. Stoped and deleted the VM:  
 ![Stoped and deleted the VM](/m2/task2.1/img/Screenshot3.7.png)  
-8. 
+8. Created own Vagrant box:  
+![Creating of own Vagrant box](/m2/task2.1/img/Screenshot3.8.png)
